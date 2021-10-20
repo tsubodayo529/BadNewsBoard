@@ -1,0 +1,3 @@
+# BadNewsBoard
+BadNewsを共有すると他のユーザーがいい情報に変換してくれ、ポジティブになることができるアプリです。
+PHPのCRUD処理やBootstrapの勉強のため作成しました。
